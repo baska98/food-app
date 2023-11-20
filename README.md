@@ -12,3 +12,8 @@ JSON Web Token and bcrypt.
 
 Frontend:
 React.
+
+I worked with:
+Filip Szukalski and Filip Juroszek.
+This is our main git hub: 
+https://github.com/CodecoolGlobal/freestyle-mern-project-react-flipolipo
