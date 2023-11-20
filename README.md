@@ -1,1 +1,14 @@
 # food-app
+An application that is used to display recipes downloaded from the api.edamam.com website. The user can see the ingredients, the preparation process, and calorie information. Can add to favorites, can add your own recipe.
+
+Backend:
+JavaScript,
+mongoDb database,
+express,
+router,
+CORS,
+fetch data from page: “api.edamam.com”,
+JSON Web Token and bcrypt.
+
+Frontend:
+React.
